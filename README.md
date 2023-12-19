@@ -22,3 +22,5 @@ You may also see any lint errors in the console.
 ### State Management
 ### Derived states
 
+### Screen Shoot
+![farAway](https://github.com/Ahmed-kotb621/far_away/assets/75045581/6fb94582-b7a2-4bdb-978a-725206fa43b3)
